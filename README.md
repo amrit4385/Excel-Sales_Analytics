@@ -13,11 +13,10 @@ Below are the sectional links for the project:
 - [Introduction](#introduction)
 - [Problem Statement](#problem-statement)
 - [AtliQ Hardware Report Presentation](#atliq-hardware-report-presentation)
-- [Tools Used & Methodologies Implemented](#tools-used--methodologies-implemented)
+- [Tools Used & Methodologies Implemented](#Tools-Used)
+- [Skills & Methodologies Implemented](#Skills-&-Methodologies-Implemented)
 - [About the Dataset](#about-the-dataset)
 - [Data Integrity](#data-integrity)
-- [Data Model - ERD](#data-model---erd)
-- [Analysis Insights](#analysis-insights)
 
 ---
 ## Introduction
