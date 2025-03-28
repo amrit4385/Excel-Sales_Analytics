@@ -14,7 +14,6 @@ Below are the sectional links for the project:
 - [Problem Statement](#problem-statement)
 - [AtliQ Hardware Report Presentation](#atliq-hardware-report-presentation)
 - [Tools Used & Methodologies Implemented](#Tools-Used)
-- [Skills & Methodologies Implemented](#Skills-&-Methodologies-Implemented)
 - [About the Dataset](#about-the-dataset)
 - [Data Integrity](#data-integrity)
 
