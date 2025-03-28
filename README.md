@@ -12,7 +12,6 @@ Below are the sectional links for the project:
 
 - [Introduction](#introduction)
 - [Problem Statement](#problem-statement)
-- [AtliQ Hardware Report Presentation](#atliq-hardware-report-presentation)
 - [Data Source and Tools](#Data-Source-and-Tools)
 - [Data Model](#Data-Model)
 - [Tools Used & Methodologies Implemented](#Tools-Used)
