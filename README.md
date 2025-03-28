@@ -1,44 +1,87 @@
-## Sales Report :
+# AtliQ Hardware - Sales & Finance Analytics
 
+This repository serves as my documentation for the **AtliQ Hardware Sales & Finance Analytics Excel Project**. It was created as a **self-learning project** with guidance from **Codebasics**.
 
-- **Project objective:** 
+The entire project has been implemented using **Microsoft Excel 2016**.
 
-    **1.** Create a _[customer performance report](https://github.com/amrit4385/Excel-Sales_Analytics/blob/main/Customer%20Performance%20Report.pdf)_ 
+> **Note:** The project files have not been uploaded to this repository in compliance with Codebasics Data & Content Distribution Policy.
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/amrit4385/Excel-Sales_Analytics/blob/main/Customer%20Performance%20Report.pdf)_
+---
+## Contents
+Below are the sectional links for the project:
 
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
+- **Introduction**
+- **Problem Statement**
+- **AtliQ Hardware Compiled Report**
+- **Sales Analytics Reports**
+- **Sales Analytics Reports Documentation**
+- **Finance Analytics Reports**
+- **Finance Analytics Reports Documentation**
+- **AtliQ Hardware Report Presentation**
+- **Tools Used & Methodologies Implemented**
+- **About the Dataset**
+- **Data Integrity**
 
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+---
+## Introduction
+**Domain:** FMCG  |  **Functions:** Sales & Finance
 
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+AtliQ Hardwares is a company that sells **computer hardware and peripherals** like **PCs, mice, printers**, etc., to clients across the world.
 
+- **Business Model:** Primarily **B2B**, selling to major stores like **Croma, Best Buy, Staples, Flipkart**, which then sell to end consumers.
+- **Sales Channels:**
+  - **Retailer Channel:**
+    - **Brick & Mortar Customers**: Physical stores (e.g., Croma, Best Buy)
+    - **E-commerce Customers**: Online platforms (e.g., Amazon, Flipkart)
+  - **Direct Channel:**
+    - **AtliQ E-store & AtliQ Exclusive** (Owned stores)
+  - **Distributor Channel:**
+    - Operates in restricted trade countries (e.g., Neptune)
 
-## Finance Report :
+---
+## Problem Statement
+AtliQ Hardwares has been facing **significant losses** in recent years. Business decisions have been based on **handwritten reports**, making data-driven decision-making difficult. 
 
-- **Project objective:** 
+### **Business Requirement:**
+The **Data Analyst team** has been tasked with preparing an **Excel Analysis Report** focused on **Sales and Financial Performance** by analyzing data from **multiple files containing over 1.5 million records**. The goal is to derive insights that will **boost business growth**.
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/amrit4385/Excel-Sales_Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/amrit4385/Excel-Sales_Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+---
+## Tools Used
+- **Microsoft Excel** – Data Cleaning, Data Analysis & Visualization
+- **Microsoft PowerPoint** – Project Presentation
+- **DataWrapper** – Insights Visuals
+- **GitHub** – Documentation
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/amrit4385/Excel-Sales_Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+---
+## Skills & Methodologies Implemented
+- **Data Cleaning:** ETL, Power Query
+- **Data Manipulation:** VLOOKUP, INDEX-MATCH, XLOOKUP, Table Joining, DAX Measures & Columns
+- **Data Modeling & Normalization**
+- **Data Visualization:** Pivot Table, Power Pivot, Conditional Formatting
+- **Documentation**
 
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+---
+## About the Dataset
+### **Data Sources:** Sales & Finance
+| Table Name                      | Records | Columns |
+|---------------------------------|---------|---------|
+| dim_customer                    | 189     | 5       |
+| dim_market                      | 23      | 3       |
+| dim_product                     | 298     | 6       |
+| fact_sales_monthly              | 799,962 | 5       |
+| ns_targets_2021                 | 276     | 3       |
+| fact_sales_monthly_with_cost     | 799,962 | 7       |
 
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
+### **Data Dictionary:** *(To be added)*
 
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+---
+## Data Integrity
+### **ROCCC Evaluation:**
+- **Reliability:** MED – Dataset created and updated by Codebasics, consisting of 6 files.
+- **Originality:** HIGH – First-party provider (Codebasics).
+- **Comprehensiveness:** MED – Contains parameters for Customers, Products & Markets, plus detailed Sales & Finance transaction data.
+- **Currentness:** LOW – Last updated in 2021, making it **obsolete** for current analysis.
+- **Citation:** LOW – No official citation/reference available.
 
+---
 
-## Technical & Soft Skills:
-- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
-- [x]	Skills to generate a date table using Power Query.
-- [x]	Ability to derive fiscal months and quarters.
-- [x]	Establishing data model relationships with Power Pivot.
-- [x]	Proficiency in incorporating supplementary data into an existing data model.
-- [x]	Utilizing DAX to create calculated columns.
-
-## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports
-- [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
