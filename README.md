@@ -62,7 +62,7 @@ The **Data Analyst team** has been tasked with preparing an **Excel Analysis Rep
 ## Data Model
 
 ### Entity Relationship Diagram:
-![ERD](images/image.png)
+![ERD](Images/image.png)
 
 
 ---
