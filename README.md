@@ -10,17 +10,19 @@ The entire project has been implemented using **Microsoft Excel 2016**.
 ## Contents
 Below are the sectional links for the project:
 
-- **Introduction**
-- **Problem Statement**
-- **AtliQ Hardware Compiled Report**
-- **Sales Analytics Reports**
-- **Sales Analytics Reports Documentation**
-- **Finance Analytics Reports**
-- **Finance Analytics Reports Documentation**
-- **AtliQ Hardware Report Presentation**
-- **Tools Used & Methodologies Implemented**
-- **About the Dataset**
-- **Data Integrity**
+- [Introduction](#introduction)
+- [Problem Statement](#problem-statement)
+- [AtliQ Hardware Compiled Report](#atliq-hardware-compiled-report)
+- [Sales Analytics Reports](#sales-analytics-reports)
+- [Sales Analytics Reports Documentation](#sales-analytics-reports-documentation)
+- [Finance Analytics Reports](#finance-analytics-reports)
+- [Finance Analytics Reports Documentation](#finance-analytics-reports-documentation)
+- [AtliQ Hardware Report Presentation](#atliq-hardware-report-presentation)
+- [Tools Used & Methodologies Implemented](#tools-used--methodologies-implemented)
+- [About the Dataset](#about-the-dataset)
+- [Data Integrity](#data-integrity)
+- [Data Model - ERD](#data-model---erd)
+- [Analysis Insights](#analysis-insights)
 
 ---
 ## Introduction
