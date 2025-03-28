@@ -107,11 +107,11 @@ The **Data Analyst team** has been tasked with preparing an **Excel Analysis Rep
 
 Click on the links below to open the detailed reports:
 
-- [📌 Customer Performance Report](fCustomer%20Performance%20Report.pdf)
-- [📌 Market Performance vs Target Report](files/Market%20Performance%20vs%20Target%20Report.pdf)
-- [📌 P&L Statement by Fiscal Year](files/P&L%20Statement%20by%20Fiscal%20Year.pdf)
-- [📌 P&L Statement by Markets](files/P&L%20Statement%20by%20Markets.pdf)
-- [📌 P&L Statement by Months](files/P&L%20Statement%20by%20Months.pdf)
+- [📌 Customer Performance Report](https://github.com/amrit4385/Excel-Sales_Analytics/blob/main/Customer%20Performance%20Report.pdf)
+- [📌 Market Performance vs Target Report](https://github.com/amrit4385/Excel-Sales_Analytics/blob/main/Market%20Performance%20vs%20Report.pdf)
+- [📌 P&L Statement by Fiscal Year](https://github.com/amrit4385/Excel-Sales_Analytics/blob/main/P&L%20Statement%20by%20Fiscal%20Year.pdf)
+- [📌 P&L Statement by Markets](https://github.com/amrit4385/Excel-Sales_Analytics/blob/main/P&L%20Statement%20by%20Markets.pdf)
+- [📌 P&L Statement by Months](https://github.com/amrit4385/Excel-Sales_Analytics/blob/main/P&L%20Statement%20by%20Months.pdf)
 
 📢 **Note:** Ensure all PDFs are placed in the `files` folder in your repository.
 
