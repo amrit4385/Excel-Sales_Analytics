@@ -13,8 +13,8 @@ Below are the sectional links for the project:
 - [Introduction](#introduction)
 - [Problem Statement](#problem-statement)
 - [AtliQ Hardware Report Presentation](#atliq-hardware-report-presentation)
-- [Data Source and Tools](Data-Source-and-Tools)
-- [Data Model](Data-Model)
+- [Data Source and Tools](#Data-Source-and-Tools)
+- [Data Model](#Data-Model)
 - [Tools Used & Methodologies Implemented](#Tools-Used)
 - [About the Dataset](#about-the-dataset)
 - [Data Integrity](#data-integrity)
@@ -46,7 +46,7 @@ The **Data Analyst team** has been tasked with preparing an **Excel Analysis Rep
 ## Data Source and Tools
 
 ### Data Sources: Sales & Finance
-![Data Sources](images/picture1.png)
+![Data Sources](Images/picture1.png)
 
 ### Analysis Tool & Skills
 - **Microsoft Excel**:
