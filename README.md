@@ -46,7 +46,11 @@ The **Data Analyst team** has been tasked with preparing an **Excel Analysis Rep
 ## Data Source and Tools
 
 ### Data Sources: Sales & Finance
-![Data Sources](Images/picture1.png)
+![Data Sources]
+<p align="center">
+    <img src="Images/Picture1.png" width="45%">
+    <img src="Images/Picture2.png" width="45%">
+</p>
 
 ### Analysis Tool & Skills
 - **Microsoft Excel**:
