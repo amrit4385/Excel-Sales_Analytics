@@ -103,7 +103,7 @@ The **Data Analyst team** has been tasked with preparing an **Excel Analysis Rep
 
 ---
 
-## 📊 Analysis Insights
+## Analysis Insights
 
 Click on the links below to open the detailed reports:
 
