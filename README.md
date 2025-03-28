@@ -12,11 +12,6 @@ Below are the sectional links for the project:
 
 - [Introduction](#introduction)
 - [Problem Statement](#problem-statement)
-- [AtliQ Hardware Compiled Report](#atliq-hardware-compiled-report)
-- [Sales Analytics Reports](#sales-analytics-reports)
-- [Sales Analytics Reports Documentation](#sales-analytics-reports-documentation)
-- [Finance Analytics Reports](#finance-analytics-reports)
-- [Finance Analytics Reports Documentation](#finance-analytics-reports-documentation)
 - [AtliQ Hardware Report Presentation](#atliq-hardware-report-presentation)
 - [Tools Used & Methodologies Implemented](#tools-used--methodologies-implemented)
 - [About the Dataset](#about-the-dataset)
