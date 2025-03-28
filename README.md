@@ -18,6 +18,7 @@ Below are the sectional links for the project:
 - [Tools Used & Methodologies Implemented](#Tools-Used)
 - [About the Dataset](#about-the-dataset)
 - [Data Integrity](#data-integrity)
+- [Analysis Insights](Analysis-Insights)
 
 ---
 ## Introduction
@@ -102,4 +103,16 @@ The **Data Analyst team** has been tasked with preparing an **Excel Analysis Rep
 - **Citation:** LOW – No official citation/reference available.
 
 ---
+
+## 📊 Analysis Insights
+
+Click on the links below to open the detailed reports:
+
+- [📌 Customer Performance Report](fCustomer%20Performance%20Report.pdf)
+- [📌 Market Performance vs Target Report](files/Market%20Performance%20vs%20Target%20Report.pdf)
+- [📌 P&L Statement by Fiscal Year](files/P&L%20Statement%20by%20Fiscal%20Year.pdf)
+- [📌 P&L Statement by Markets](files/P&L%20Statement%20by%20Markets.pdf)
+- [📌 P&L Statement by Months](files/P&L%20Statement%20by%20Months.pdf)
+
+📢 **Note:** Ensure all PDFs are placed in the `files` folder in your repository.
 
