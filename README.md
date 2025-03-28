@@ -13,6 +13,8 @@ Below are the sectional links for the project:
 - [Introduction](#introduction)
 - [Problem Statement](#problem-statement)
 - [AtliQ Hardware Report Presentation](#atliq-hardware-report-presentation)
+- [Data Source and Tools](Data-Source-and-Tools)
+- [Data Model](Data-Model)
 - [Tools Used & Methodologies Implemented](#Tools-Used)
 - [About the Dataset](#about-the-dataset)
 - [Data Integrity](#data-integrity)
@@ -39,6 +41,29 @@ AtliQ Hardwares has been facing **significant losses** in recent years. Business
 
 ### **Business Requirement:**
 The **Data Analyst team** has been tasked with preparing an **Excel Analysis Report** focused on **Sales and Financial Performance** by analyzing data from **multiple files containing over 1.5 million records**. The goal is to derive insights that will **boost business growth**.
+
+
+## Data Source and Tools
+
+### Data Sources: Sales & Finance
+![Data Sources](images/picture1.png)
+
+### Analysis Tool & Skills
+- **Microsoft Excel**:
+  - Power Query
+  - Pivot Table
+  - Power Pivot
+  - Data Modelling
+  - DAX Measures & Columns
+  - Conditional Formatting
+
+---
+
+## Data Model
+
+### Entity Relationship Diagram:
+![ERD](images/image.png)
+
 
 ---
 ## Tools Used
